@@ -56,22 +56,22 @@ Included evaluation visuals:
 
 These results demonstrate strong discriminatory ability in identifying at-risk students.
 
----
-
 ## 📁 Repository Structure
-├── dashboards/
-│ ├── anxiety_dashboard.png
-│ ├── depression_dashboard.png
-│ ├── overwhelm_dashboard.png
+
+```
+├── Dashboards/
+│   ├── Anexity_Dashboard.png
+│   ├── Depression_dashboard.png
+│   ├── overwhelmed_dashboard.png
+│   ├── mental_health_variables.png
+│   ├── repondents_dashboard.png
 │
 ├── figures/
-│ ├── confusion_matrix.png
-│ ├── roc_curve.png
+│   ├── confusion_matrix.png
+│   ├── ROC_curve.png
 │
 └── README.md
-
-
----
+```
 
 ## Analytical Workflow Summary
 
